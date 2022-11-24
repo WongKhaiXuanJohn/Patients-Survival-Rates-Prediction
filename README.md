@@ -1,4 +1,4 @@
-# This mini project is using Python to analyze patients' datasets.
+# This project is using Python to analyze patients' datasets.
 After necessary steps of data analysis have done, logistic regression model was implemented to predict the survival rate of these patients.
 Do note that, due to running time took long time in parameter tuning, hence the tuning process was used some simple parameters, it still can be improved.
 
